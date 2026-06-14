@@ -67,7 +67,7 @@ Enter your GitHub username here as well. This sets who gets assigned to bug repo
 
 ### Store Config URL
 
-**Leave this as-is.** This URL is pre-configured to point to the SideStack store configuration.
+**Leave this as-is.** This URL is only for authorized Developers who have a Authorized SideStack Token and are authorized to update our internal apps. Leave Blank and Ignore the Import From Store button in the My Apps tab. My apps tab will still populate with apps you create within the New App tab and allow you to update your apps. 
 
 ### Output Directory
 
