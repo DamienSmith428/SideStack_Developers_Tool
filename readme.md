@@ -131,6 +131,8 @@ The SideStack Submission Tool is used by developers who do not possess an Author
 4. Attach updated APK files.
 5. Publish the update.
 
+> Note: Updates to your app's dont require a submission for approval. The repo lives in your github account there for your apps page is your responsibility/under your ownership. Just use the tool to update and itll be auto pushed to the store with your apks and changelog notes. 
+
 ---
 
 ## Need Help?
