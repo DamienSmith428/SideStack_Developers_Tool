@@ -115,10 +115,11 @@ The SideStack Submission Tool is used by developers who do not possess an Author
 ### Submission Process
 
 1. Publish your app using the SideStack Developer Release Tool.
-2. Copy your generated application URL.
-3. Open the SideStack Submission Tool.
-4. Submit the application URL for review.
-5. Upon approval, the application will automatically be added to the SideStack Android App Store.
+2. Copy your generated application URL. (or go to the repo for your new app then docs/config.json and click "raw" and copy the URL and   paste into the appropriate field in submission tool)
+   (example URL: https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-REPO/refs/heads/main/docs/config.json)
+4. Open the SideStack Submission Tool.
+5. Submit the application URL for review.
+6. Upon approval, the application will automatically be added to the SideStack Android App Store.
 
 ---
 
