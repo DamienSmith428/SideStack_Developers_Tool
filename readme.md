@@ -10,7 +10,7 @@ Download the latest version of each tool directly from the newest GitHub release
 
 <p align="center">
 
-<a href="https://github.com/DamienSmith428/SideStack_Developers_Tool/releases/latest/download/SideStackTool.exe">
+<a href="https://github.com/DamienSmith428/SideStack_Developers_Tool/releases/latest/download/Side.Stack.Tool.exe">
     <img src="https://img.shields.io/badge/Download-SideStack%20Developer%20Tool-blue?style=for-the-badge" alt="Download SideStack Developer Tool">
 </a>
 
