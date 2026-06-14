@@ -87,6 +87,7 @@ The tool will:
 4. Upload APK files as GitHub releases
 5. Register the app with the SideStack store configuration
 
+> Note: In order for your repo page to load after the tool pushes everything; Go to your repo > settings > pages  (Ex. URL: https://github.com/DamienSmith428/TestApp-web/settings/pages) then go where it says Branch towards the top and select Main then to the right of that change /root to /docs. Give github time to startup your page then click the Visit Site towards the top and thats your app page for our store.
 ---
 
 ## App Submission & Store Approval Process
