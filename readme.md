@@ -120,4 +120,4 @@ Use the **Update App** tab any time you're releasing a new version of an app alr
 
 ## Need Help?
 
-Open an issue on this repo or reach out through the SideStack community.
+Open an issue on this repo
