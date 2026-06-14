@@ -4,14 +4,34 @@ A desktop app for developers who want to publish their Android apps to the SideS
 
 ---
 
-## What's Included in the ZIP
+## Downloads
 
-The release ZIP contains two tools:
+Download the latest version of each tool directly from the newest GitHub release.
 
-- **SideStackTool.exe** — the main release tool (this app)
-- **SideStack App Submission Tool** — required companion tool for submitting app URLs for store review and approval
+<p align="center">
 
-Both must be present and set up before you start.
+<a href="https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest/download/SideStackTool.exe">
+    <img src="https://img.shields.io/badge/Download-SideStack%20Developer%20Tool-blue?style=for-the-badge" alt="Download SideStack Developer Tool">
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest/download/SideStackSubmissionTool.exe">
+    <img src="https://img.shields.io/badge/Download-App%20Submission%20Tool-green?style=for-the-badge" alt="Download App Submission Tool">
+</a>
+
+</p>
+
+> Replace `YOUR_USERNAME` and `YOUR_REPO` with your GitHub repository information.
+
+---
+
+## What's Included
+
+The project includes two tools:
+
+- **SideStackTool.exe** — the main developer release tool
+- **SideStackSubmissionTool.exe** — companion tool used to submit app URLs for store review and approval
 
 ---
 
@@ -43,7 +63,7 @@ Enter your GitHub username. This is the account your repos and releases will be 
 
 ### Issue Assignee
 
-Enter your GitHub username here as well. This sets who gets assigned to bug reports opened on your app's repo — in most cases this will be the same as your username.
+Enter your GitHub username here as well. This sets who gets assigned to bug reports opened on your app's repo.
 
 ### SideStack Web Repo Name
 
@@ -51,23 +71,25 @@ Enter your GitHub username here as well. This sets who gets assigned to bug repo
 
 ### Store Config URL
 
-**Leave this as-is.** This URL is pre-configured to point to the SideStack store config and does not need to be changed.
+**Leave this as-is.** This URL is pre-configured to point to the SideStack store configuration and does not need to be changed.
 
 ### Output Directory
 
-A local folder on your PC where a copy of your generated app page files will be saved. This is for your own reference only — the real work happens on GitHub. The tool automatically creates the repo on your GitHub account and pushes everything there. The local output is just a convenience copy.
+A local folder on your PC where a copy of your generated app page files will be saved. The tool automatically creates the repository on your GitHub account and pushes everything there. The local output is simply a convenience copy.
 
 ---
 
 ## Creating a New App — New App Tab
 
-Fill in your app's details: name, repo info, APK architectures, SDK versions, description, and so on. The tool will:
+Fill in your app's details including name, repository information, APK architectures, SDK versions, description, and other metadata.
+
+The tool will:
 
 1. Generate your app's store page
-2. Create the necessary GitHub repository under your account
-3. Push all page files to that repo
-4. Upload your APK(s) as a GitHub release
-5. Register your app with the SideStack store configuration
+2. Create the required GitHub repository
+3. Push all page files to GitHub
+4. Upload APK files as GitHub releases
+5. Register the app with the SideStack store configuration
 
 ---
 
@@ -94,30 +116,48 @@ Only verified developers and authorized publishers who have received this token 
 
 ## Companion Submission Tool
 
-The ZIP package also includes a second tool used for app store submission requests.
+The SideStack Submission Tool is used by developers who do not possess an Authorized Official SideStack Dev Release Token.
 
-This companion tool allows developers to submit their application URL directly to the SideStack review system for manual approval.
+This tool allows you to submit your application URL directly for review and approval.
 
-The submission process is simple:
+### Submission Process
 
-1. Publish your app using the main release tool.
+1. Publish your app using the SideStack Developer Release Tool.
 2. Copy your generated application URL.
-3. Open the included submission tool.
-4. Submit your application URL for review.
-5. Once approved, your application will be automatically added to the SideStack Android App Store.
+3. Open the SideStack Submission Tool.
+4. Submit the application URL for review.
+5. Upon approval, the application will automatically be added to the SideStack Android App Store.
 
-Developers who do not possess an Authorized Official SideStack Dev Release Token should use this submission tool to request inclusion in the store.
-
-Automatic store listing through the red authorization box is reserved exclusively for authorized token holders. All other developers must submit their app URL through the companion submission tool and wait for approval before their listing becomes publicly visible in the store.
+Developers without an Authorized Official SideStack Dev Release Token must use this submission process before their app becomes publicly visible in the store.
 
 ---
 
 ## Updating an Existing App — Update App Tab
 
-Use the **Update App** tab any time you're releasing a new version of an app already in the store. Select your app from the dropdown, enter the new version number, describe what changed, attach the new APK(s), and publish. This flow is completely separate from the New App tab.
+Use the **Update App** tab whenever releasing a new version of an existing application.
+
+1. Select your app from the dropdown list.
+2. Enter the new version number.
+3. Add release notes describing changes.
+4. Attach updated APK files.
+5. Publish the update.
+
+This workflow is separate from creating a new app.
+
+---
+
+## Initial Release
+
+**Release Title**
+
+SideStack Developer Release Tool v1.0.0 — Initial Public Release
+
+**Tag**
+
+v1.0.0
 
 ---
 
 ## Need Help?
 
-Open an issue on this repo
+Open an issue on this repository or reach out through the SideStack community.
