@@ -133,18 +133,6 @@ The SideStack Submission Tool is used by developers who do not possess an Author
 
 ---
 
-## Initial Release
-
-**Release Title**
-
-SideStack Developer Release Tool v1.0.0 — Initial Public Release
-
-**Tag**
-
-v1.0.0
-
----
-
 ## Need Help?
 
-Open an issue on this repository or reach out through the SideStack community.
+Open an issue on this repository.
