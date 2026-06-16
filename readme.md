@@ -22,6 +22,164 @@ Download the latest version of each tool directly from the newest GitHub release
 
 ---
 
+## Screenshots
+
+<table align="center">
+  <tr>
+    <td align="center" width="100%">
+      <a href="https://raw.githubusercontent.com/DamienSmith428/SideStack_Developers_Tool/main/screenshots/ScreenShot1.png">
+        <img src="https://raw.githubusercontent.com/DamienSmith428/SideStack_Developers_Tool/main/screenshots/ScreenShot1.png"
+             alt="Screenshot 1"
+             width="720"/>
+      </a>
+      <br/>
+      <sub>1 / 11 &nbsp;·&nbsp; <a href="#screenshot-2">Next →</a></sub>
+    </td>
+  </tr>
+</table>
+
+<table align="center" id="screenshot-2">
+  <tr>
+    <td align="center" width="100%">
+      <a href="https://raw.githubusercontent.com/DamienSmith428/SideStack_Developers_Tool/main/screenshots/ScreenShot2.png">
+        <img src="https://raw.githubusercontent.com/DamienSmith428/SideStack_Developers_Tool/main/screenshots/ScreenShot2.png"
+             alt="Screenshot 2"
+             width="720"/>
+      </a>
+      <br/>
+      <sub><a href="#screenshots">← Back</a> &nbsp;·&nbsp; 2 / 11 &nbsp;·&nbsp; <a href="#screenshot-3">Next →</a></sub>
+    </td>
+  </tr>
+</table>
+
+<table align="center" id="screenshot-3">
+  <tr>
+    <td align="center" width="100%">
+      <a href="https://raw.githubusercontent.com/DamienSmith428/SideStack_Developers_Tool/main/screenshots/ScreenShot3.png">
+        <img src="https://raw.githubusercontent.com/DamienSmith428/SideStack_Developers_Tool/main/screenshots/ScreenShot3.png"
+             alt="Screenshot 3"
+             width="720"/>
+      </a>
+      <br/>
+      <sub><a href="#screenshot-2">← Back</a> &nbsp;·&nbsp; 3 / 11 &nbsp;·&nbsp; <a href="#screenshot-4">Next →</a></sub>
+    </td>
+  </tr>
+</table>
+
+<table align="center" id="screenshot-4">
+  <tr>
+    <td align="center" width="100%">
+      <a href="https://raw.githubusercontent.com/DamienSmith428/SideStack_Developers_Tool/main/screenshots/ScreenShot4.png">
+        <img src="https://raw.githubusercontent.com/DamienSmith428/SideStack_Developers_Tool/main/screenshots/ScreenShot4.png"
+             alt="Screenshot 4"
+             width="720"/>
+      </a>
+      <br/>
+      <sub><a href="#screenshot-3">← Back</a> &nbsp;·&nbsp; 4 / 11 &nbsp;·&nbsp; <a href="#screenshot-5">Next →</a></sub>
+    </td>
+  </tr>
+</table>
+
+<table align="center" id="screenshot-5">
+  <tr>
+    <td align="center" width="100%">
+      <a href="https://raw.githubusercontent.com/DamienSmith428/SideStack_Developers_Tool/main/screenshots/ScreenShot5.png">
+        <img src="https://raw.githubusercontent.com/DamienSmith428/SideStack_Developers_Tool/main/screenshots/ScreenShot5.png"
+             alt="Screenshot 5"
+             width="720"/>
+      </a>
+      <br/>
+      <sub><a href="#screenshot-4">← Back</a> &nbsp;·&nbsp; 5 / 11 &nbsp;·&nbsp; <a href="#screenshot-6">Next →</a></sub>
+    </td>
+  </tr>
+</table>
+
+<table align="center" id="screenshot-6">
+  <tr>
+    <td align="center" width="100%">
+      <a href="https://raw.githubusercontent.com/DamienSmith428/SideStack_Developers_Tool/main/screenshots/ScreenShot6.png">
+        <img src="https://raw.githubusercontent.com/DamienSmith428/SideStack_Developers_Tool/main/screenshots/ScreenShot6.png"
+             alt="Screenshot 6"
+             width="720"/>
+      </a>
+      <br/>
+      <sub><a href="#screenshot-5">← Back</a> &nbsp;·&nbsp; 6 / 11 &nbsp;·&nbsp; <a href="#screenshot-7">Next →</a></sub>
+    </td>
+  </tr>
+</table>
+
+<table align="center" id="screenshot-7">
+  <tr>
+    <td align="center" width="100%">
+      <a href="https://raw.githubusercontent.com/DamienSmith428/SideStack_Developers_Tool/main/screenshots/ScreenShot7.png">
+        <img src="https://raw.githubusercontent.com/DamienSmith428/SideStack_Developers_Tool/main/screenshots/ScreenShot7.png"
+             alt="Screenshot 7"
+             width="720"/>
+      </a>
+      <br/>
+      <sub><a href="#screenshot-6">← Back</a> &nbsp;·&nbsp; 7 / 11 &nbsp;·&nbsp; <a href="#screenshot-8">Next →</a></sub>
+    </td>
+  </tr>
+</table>
+
+<table align="center" id="screenshot-8">
+  <tr>
+    <td align="center" width="100%">
+      <a href="https://raw.githubusercontent.com/DamienSmith428/SideStack_Developers_Tool/main/screenshots/ScreenShot8.png">
+        <img src="https://raw.githubusercontent.com/DamienSmith428/SideStack_Developers_Tool/main/screenshots/ScreenShot8.png"
+             alt="Screenshot 8"
+             width="720"/>
+      </a>
+      <br/>
+      <sub><a href="#screenshot-7">← Back</a> &nbsp;·&nbsp; 8 / 11 &nbsp;·&nbsp; <a href="#screenshot-9">Next →</a></sub>
+    </td>
+  </tr>
+</table>
+
+<table align="center" id="screenshot-9">
+  <tr>
+    <td align="center" width="100%">
+      <a href="https://raw.githubusercontent.com/DamienSmith428/SideStack_Developers_Tool/main/screenshots/ScreenShot9.png">
+        <img src="https://raw.githubusercontent.com/DamienSmith428/SideStack_Developers_Tool/main/screenshots/ScreenShot9.png"
+             alt="Screenshot 9"
+             width="720"/>
+      </a>
+      <br/>
+      <sub><a href="#screenshot-8">← Back</a> &nbsp;·&nbsp; 9 / 11 &nbsp;·&nbsp; <a href="#screenshot-10">Next →</a></sub>
+    </td>
+  </tr>
+</table>
+
+<table align="center" id="screenshot-10">
+  <tr>
+    <td align="center" width="100%">
+      <a href="https://raw.githubusercontent.com/DamienSmith428/SideStack_Developers_Tool/main/screenshots/ScreenShot10.png">
+        <img src="https://raw.githubusercontent.com/DamienSmith428/SideStack_Developers_Tool/main/screenshots/ScreenShot10.png"
+             alt="Screenshot 10"
+             width="720"/>
+      </a>
+      <br/>
+      <sub><a href="#screenshot-9">← Back</a> &nbsp;·&nbsp; 10 / 11 &nbsp;·&nbsp; <a href="#screenshot-11">Next →</a></sub>
+    </td>
+  </tr>
+</table>
+
+<table align="center" id="screenshot-11">
+  <tr>
+    <td align="center" width="100%">
+      <a href="https://raw.githubusercontent.com/DamienSmith428/SideStack_Developers_Tool/main/screenshots/ScreenShot11.png">
+        <img src="https://raw.githubusercontent.com/DamienSmith428/SideStack_Developers_Tool/main/screenshots/ScreenShot11.png"
+             alt="Screenshot 11"
+             width="720"/>
+      </a>
+      <br/>
+      <sub><a href="#screenshot-10">← Back</a> &nbsp;·&nbsp; 11 / 11</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## What's Included
 
 The project includes two tools:
@@ -67,7 +225,7 @@ Enter your GitHub username here as well. This sets who gets assigned to bug repo
 
 ### Store Config URL
 
-**Leave this as-is.** This URL is only for authorized Developers who have a Authorized SideStack Token and are authorized to update our internal apps. Leave Blank and Ignore the Import From Store button in the My Apps tab. My apps tab will still populate with apps you create within the New App tab and allow you to update your apps. 
+**Leave this as-is.** This URL is pre-configured to point to the SideStack store configuration.
 
 ### Output Directory
 
@@ -87,7 +245,6 @@ The tool will:
 4. Upload APK files as GitHub releases
 5. Register the app with the SideStack store configuration
 
-> Note: In order for your repo page to load after the tool pushes everything; Go to your repo > settings > pages  (Ex. URL: https://github.com/DamienSmith428/TestApp-web/settings/pages) then go where it says Branch towards the top and select Main then to the right of that change /root to /docs. Give github time to startup your page then click the Visit Site towards the top and thats your app page for our store.
 ---
 
 ## App Submission & Store Approval Process
@@ -116,11 +273,11 @@ The SideStack Submission Tool is used by developers who do not possess an Author
 ### Submission Process
 
 1. Publish your app using the SideStack Developer Release Tool.
-2. Copy your generated application URL. (or go to the repo for your new app then docs/config.json and click "raw" and copy the URL and   paste into the appropriate field in submission tool)
-   (example URL: https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-REPO/refs/heads/main/docs/config.json)
-4. Open the SideStack Submission Tool.
-5. Submit the application URL for review.
-6. Upon approval, the application will automatically be added to the SideStack Android App Store.
+2. Copy your generated application URL. (or go to the repo for your new app then docs/config.json and click "raw" and copy the URL and paste into the appropriate field in submission tool)
+   (example URL: `https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-REPO/refs/heads/main/docs/config.json`)
+3. Open the SideStack Submission Tool.
+4. Submit the application URL for review.
+5. Upon approval, the application will automatically be added to the SideStack Android App Store.
 
 ---
 
@@ -132,7 +289,7 @@ The SideStack Submission Tool is used by developers who do not possess an Author
 4. Attach updated APK files.
 5. Publish the update.
 
-> Note: Updates to your app's dont require a submission for approval. The repo lives in your github account there for your apps page is your responsibility/under your ownership. Just use the tool to update and itll be auto pushed to the store with your apks and changelog notes. 
+> Note: Updates to your app don't require a submission for approval. The repo lives in your GitHub account, therefore your app's page is your responsibility and under your ownership. Just use the tool to update and it'll be auto pushed to the store with your APKs and changelog notes.
 
 ---
 
